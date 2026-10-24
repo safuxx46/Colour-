@@ -1,0 +1,12 @@
+{
+  "name": "FF Arena — Play. Frag. Win.",
+  "short_name": "FF Arena",
+  "description": "Free Fire custom-room tournaments and per-kill rewards.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#0D0D0D",
+  "icons": [
+    { "src": "/arena-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
